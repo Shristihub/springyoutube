@@ -1,0 +1,5 @@
+# Created at 2023-10-03T15:49:28.914
+Boot Manifest-JAR contains absolute paths in classpath 'D:\2021\apps\stsexamples\ytspringdemos\spring-productapp-restdocker\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

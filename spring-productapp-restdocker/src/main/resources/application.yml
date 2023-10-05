@@ -1,0 +1,11 @@
+#datasources specific properties
+
+spring:  data:    mongodb:      uri: mongodb://mongodbcon:27017/trainingdb
+      
+      
+# application and mongodb are running locally mongodb://localhost:27017/trainingdb
+# application is running externally in the loaclmachine and mongodb is running as a docker container
+# mongodb://0.0.0.0:27017/trainingdb
+
+# application and mongodb are running as docker container 
+#mongodb://<mongodbcontainername>:27017/trainingdb

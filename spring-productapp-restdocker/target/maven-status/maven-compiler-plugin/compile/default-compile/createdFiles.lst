@@ -1,0 +1,13 @@
+com\productapp\model\ProductDto.class
+com\productapp\exceptions\GlobalExceptionHandler.class
+com\productapp\model\Product.class
+com\productapp\exceptions\ProductNotFoundException.class
+com\productapp\exceptions\InvalidIdException.class
+com\productapp\SpringProductappRestdockerApplication.class
+com\productapp\model\ApiErrors.class
+com\productapp\model\ProductMapper.class
+com\productapp\repository\IProductRepository.class
+com\productapp\service\IProductService.class
+com\productapp\service\ProductServiceImpl.class
+com\productapp\controllers\ProductController.class
+com\productapp\model\Features.class
